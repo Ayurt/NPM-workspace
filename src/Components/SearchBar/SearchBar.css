@@ -1,0 +1,31 @@
+.search-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0px;
+}
+
+.search-bar h1 {
+    margin-right: 20px;
+}
+
+.error {
+    padding: 0%
+}
+
+.signup-btn,
+.signin-btn {
+    margin-left: 10px;
+}
+
+.description {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+h3,
+p {
+    padding-left: 12%;
+    padding-right: 12%;
+}

@@ -1,0 +1,22 @@
+.footer-container {
+    background-color: #001529;
+    color: white;
+    padding: 20px 50px;
+}
+
+.footer-container .ant-typography {
+    color: white;
+}
+
+.footer-container .ant-typography a {
+    color: #1890ff;
+    margin-right: 10px;
+}
+
+.footer-container .ant-divider-vertical {
+    background-color: #1890ff;
+}
+
+.footer-container .ant-row {
+    margin-bottom: 20px;
+}

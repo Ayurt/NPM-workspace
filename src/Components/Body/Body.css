@@ -1,0 +1,7 @@
+.body-container {
+    background-color: #b94b07c1;
+    /* Ant Design primary color */
+    padding: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
